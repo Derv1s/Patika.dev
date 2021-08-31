@@ -1,2 +1,2 @@
 # Patika.dev
-Patika.dev'teki projeleri.
+Patika.dev'teki ödev ve bitirme projeleri.
