@@ -1,2 +1,2 @@
 # Patika.dev
-Patika.dev'teki projelerin olduğu repostpry
+Patika.dev'teki projeleri.
