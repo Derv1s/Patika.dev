@@ -1,0 +1,15 @@
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\bin\Debug\net6.0\ConsoleProgramlama.exe
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\bin\Debug\net6.0\ConsoleProgramlama.deps.json
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\bin\Debug\net6.0\ConsoleProgramlama.runtimeconfig.json
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\bin\Debug\net6.0\ConsoleProgramlama.dll
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\bin\Debug\net6.0\ConsoleProgramlama.pdb
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.dll
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\refint\ConsoleProgramlama.dll
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.pdb
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ConsoleProgramlama.genruntimeconfig.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\ConsoleProgramlama\obj\Debug\net6.0\ref\ConsoleProgramlama.dll
