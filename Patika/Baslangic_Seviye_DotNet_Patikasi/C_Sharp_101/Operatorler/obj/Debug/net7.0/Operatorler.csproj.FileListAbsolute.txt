@@ -1,0 +1,15 @@
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\bin\Debug\net7.0\Operatorler.exe
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\bin\Debug\net7.0\Operatorler.deps.json
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\bin\Debug\net7.0\Operatorler.runtimeconfig.json
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\bin\Debug\net7.0\Operatorler.dll
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\bin\Debug\net7.0\Operatorler.pdb
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.dll
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\refint\Operatorler.dll
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.pdb
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\Operatorler.genruntimeconfig.cache
+C:\Users\Berkay\Desktop\Asp.Net Uygulamaları\PatikaDotNet\C_Sharp_101\Operatorler\obj\Debug\net7.0\ref\Operatorler.dll
